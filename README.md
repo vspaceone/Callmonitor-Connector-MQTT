@@ -1,6 +1,8 @@
 # Callmonitor-Connector for MQTT servers
 This is intended to be used as a connector between the [MQTT-callblink](https://github.com/vspaceone/MQTT-callblink) and a MQTT broker to forward information from the fritzbox-APIs (received using the [fritz-callmonitor](https://www.npmjs.com/package/fritz-callmonitor) NPM package)
 
+__Also available as docker image:__ [vspaceone/callmonitor-connector-mqtt](https://cloud.docker.com/u/vspaceone/repository/docker/vspaceone/callmonitor-connector-mqtt)
+
 ## Other Software for this project
 
 - [Project site in vspace.one wiki (German)](https://wiki.vspace.one/doku.php?id=projekte:klingelsignal)
