@@ -1,0 +1,17 @@
+{
+  "name": "mqtt-callblinkconnector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "config": "^3.0.1",
+    "fritz-callmonitor": "^3.1.1",
+    "mqtt": "^2.18.8"
+  }
+}
